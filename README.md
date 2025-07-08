@@ -2,5 +2,5 @@
 
 **Nombre:** Rommel Vladimir Valda Jesus 
 **Curso:** Sistemas Informáticos  
-**Materia:** Progtramación II 
+**Materia:** Programación II 
 **Fecha:** 07 de julio de 2025
